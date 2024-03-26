@@ -3,6 +3,8 @@ __pycache__/
 *.py[cod]
 *$py.class
 
+*.csv
+
 !src/workshop_notebook.ipynb
 
 # C extensions
