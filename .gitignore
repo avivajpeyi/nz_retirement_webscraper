@@ -168,4 +168,6 @@ outdir*
 _build
 *.ipynb_checkpoints
 *.idea
-/scraper/out_retirement_villages_pages/
+out_retirement_villages_pages/
+*.html
+*.json

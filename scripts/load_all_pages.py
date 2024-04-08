@@ -1,6 +1,6 @@
 import json
 
-with open('../scraper/data.json', 'r') as file:
+with open('../data.json', 'r') as file:
     data = json.load(file)
 
 num_elements = len(data)
